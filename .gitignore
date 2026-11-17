@@ -1,0 +1,16 @@
+# Cache & Environment Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Folder arsip / eksperimen lama
+outputs/results_lama/
+
+# File sistem & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

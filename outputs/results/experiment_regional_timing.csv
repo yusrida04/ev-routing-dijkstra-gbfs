@@ -1,0 +1,568 @@
+﻿pair_index,region_case,distance_stratum,road_distance_km,battery_percentage,energy_consumption_kwh_per_km,reserve_percentage,lambda,repeat,algorithm,success,computation_time_s,direct_search_limit_reached,charged_at_start,start_charging_assumption
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.6699489999991783,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,1,Dijkstra + SPKLU,True,0.7245389999989129,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,1,GBFS Distance,True,1.049913099999685,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,1,1,GBFS Battery-Aware,True,0.8106909999987693,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,5,1,GBFS Battery-Aware,True,1.1307764000011957,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,10,1,GBFS Battery-Aware,True,0.7377706000006583,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,20,1,GBFS Battery-Aware,True,1.0100963000004413,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.6476946000002499,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,2,Dijkstra + SPKLU,True,0.658303900003375,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,2,GBFS Distance,True,1.019915900000342,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,1,2,GBFS Battery-Aware,True,0.7738141000008909,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,5,2,GBFS Battery-Aware,True,0.8597345999987738,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,10,2,GBFS Battery-Aware,True,0.7903952999986359,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,20,2,GBFS Battery-Aware,True,1.013171800001146,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.6757369000006292,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,3,Dijkstra + SPKLU,True,0.7421090999996522,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,,3,GBFS Distance,True,1.0544363999979396,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,1,3,GBFS Battery-Aware,True,0.6310214999975869,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,5,3,GBFS Battery-Aware,True,1.0694140000014158,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,10,3,GBFS Battery-Aware,True,1.009235699999408,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.1218,10,20,3,GBFS Battery-Aware,True,0.8223706999997376,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.6898503999982495,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.15,10,,1,Dijkstra + SPKLU,True,0.6503045999997994,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,1,GBFS Distance,True,0.7221621999997296,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,1,1,GBFS Battery-Aware,True,1.0260076000013214,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,5,1,GBFS Battery-Aware,True,1.0087332000002789,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,10,1,GBFS Battery-Aware,True,0.7465910999999323,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,20,1,GBFS Battery-Aware,True,1.1529776999996102,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.7749594999986584,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.15,10,,2,Dijkstra + SPKLU,True,0.6579760999993596,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,2,GBFS Distance,True,0.29514710000148625,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,1,2,GBFS Battery-Aware,True,0.583138300000428,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,5,2,GBFS Battery-Aware,True,1.0642797999971663,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,10,2,GBFS Battery-Aware,True,0.7297792000026675,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,20,2,GBFS Battery-Aware,True,1.0400950000002922,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.6551366999992752,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.15,10,,3,Dijkstra + SPKLU,True,0.6665327999980946,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,,3,GBFS Distance,True,0.77228340000147,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,1,3,GBFS Battery-Aware,True,1.2386361999997462,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,5,3,GBFS Battery-Aware,True,1.0435996999985946,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,10,3,GBFS Battery-Aware,True,0.7567576999972516,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.15,10,20,3,GBFS Battery-Aware,True,1.062926000002335,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.709966099999292,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.18,10,,1,Dijkstra + SPKLU,True,0.7024512000025425,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,1,GBFS Distance,True,1.140672599998652,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,1,1,GBFS Battery-Aware,True,0.8450126000025193,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,5,1,GBFS Battery-Aware,True,1.1220294000013382,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,10,1,GBFS Battery-Aware,True,1.0663998999989417,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,20,1,GBFS Battery-Aware,True,0.6711482999999134,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.6752022000000579,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.18,10,,2,Dijkstra + SPKLU,True,0.6475862999977835,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,2,GBFS Distance,True,1.0283930000005057,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,1,2,GBFS Battery-Aware,True,0.8222865999996429,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,5,2,GBFS Battery-Aware,True,1.229619300000195,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,10,2,GBFS Battery-Aware,True,1.1431480999999621,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,20,2,GBFS Battery-Aware,True,0.7539361999988614,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.6749323000003642,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,80,0.18,10,,3,Dijkstra + SPKLU,True,0.6860696000003372,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,,3,GBFS Distance,True,1.0493143999992753,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,1,3,GBFS Battery-Aware,True,1.1174056999989261,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,5,3,GBFS Battery-Aware,True,0.8328856000007363,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,10,3,GBFS Battery-Aware,True,1.0419908000003488,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,80,0.18,10,20,3,GBFS Battery-Aware,True,0.8022630999985267,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.7520566000021063,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,1,Dijkstra + SPKLU,True,0.7000977000025159,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,1,GBFS Distance,True,1.0461984000030498,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,1,1,GBFS Battery-Aware,True,1.085754600000655,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,5,1,GBFS Battery-Aware,True,0.7455386000001454,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,10,1,GBFS Battery-Aware,True,1.0146509000005608,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,20,1,GBFS Battery-Aware,True,1.0404883000010159,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.669097400001192,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,2,Dijkstra + SPKLU,True,0.6897602999997616,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,2,GBFS Distance,True,0.8543005000028643,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,1,2,GBFS Battery-Aware,True,1.1543692000013834,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,5,2,GBFS Battery-Aware,True,0.8019555000028049,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,10,2,GBFS Battery-Aware,True,1.1384227000016836,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,20,2,GBFS Battery-Aware,True,1.0832886999996845,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.6915752999993856,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,3,Dijkstra + SPKLU,True,0.5410575999994762,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,,3,GBFS Distance,True,0.7552369999975781,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,1,3,GBFS Battery-Aware,True,1.0638687000027858,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,5,3,GBFS Battery-Aware,True,0.705872200000158,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,10,3,GBFS Battery-Aware,True,0.4122611000020697,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.1218,10,20,3,GBFS Battery-Aware,True,0.5696963000009418,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.7571618000001763,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.15,10,,1,Dijkstra + SPKLU,True,0.6567746000000625,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,1,GBFS Distance,True,0.821790999998484,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,1,1,GBFS Battery-Aware,True,0.9733167000013054,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,5,1,GBFS Battery-Aware,True,1.034234099999594,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,10,1,GBFS Battery-Aware,True,0.8030193999984476,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,20,1,GBFS Battery-Aware,True,1.1361498000005668,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.6984174999997776,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.15,10,,2,Dijkstra + SPKLU,True,0.7427919000001566,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,2,GBFS Distance,True,0.883537099998648,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,1,2,GBFS Battery-Aware,True,1.0541675999993458,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,5,2,GBFS Battery-Aware,True,1.08011279999846,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,10,2,GBFS Battery-Aware,True,0.8209970999996585,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,20,2,GBFS Battery-Aware,True,1.1055042999978468,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.6981424000005063,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.15,10,,3,Dijkstra + SPKLU,True,0.7239009000004444,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,,3,GBFS Distance,True,0.8178809999990335,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,1,3,GBFS Battery-Aware,True,1.0923546999983955,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,5,3,GBFS Battery-Aware,True,1.0892887000009068,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,10,3,GBFS Battery-Aware,True,0.3747022999996261,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.15,10,20,3,GBFS Battery-Aware,True,0.4281302000017604,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.21390410000094562,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.18,10,,1,Dijkstra + SPKLU,True,0.20751000000018394,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,1,GBFS Distance,True,0.44838290000188863,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,1,1,GBFS Battery-Aware,True,0.2984050000013667,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,5,1,GBFS Battery-Aware,True,0.4330957000020135,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,10,1,GBFS Battery-Aware,True,0.40188019999914104,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,20,1,GBFS Battery-Aware,True,0.32807929999762564,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.23815570000078878,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.18,10,,2,Dijkstra + SPKLU,True,0.24861519999831216,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,2,GBFS Distance,True,0.47087699999974575,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,1,2,GBFS Battery-Aware,True,0.46412340000097174,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,5,2,GBFS Battery-Aware,True,0.31855990000258316,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,10,2,GBFS Battery-Aware,True,0.47495850000268547,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,20,2,GBFS Battery-Aware,True,0.33951109999907203,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.3054109000004246,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,50,0.18,10,,3,Dijkstra + SPKLU,True,0.27417140000034124,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,,3,GBFS Distance,True,0.41891140000007,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,1,3,GBFS Battery-Aware,True,0.533205600000656,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,5,3,GBFS Battery-Aware,True,0.30979300000035437,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,10,3,GBFS Battery-Aware,True,0.44766770000205725,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,50,0.18,10,20,3,GBFS Battery-Aware,True,0.43969750000178465,False,False,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,1,Dijkstra (tanpa pengisian),False,0.3107032999978401,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,1,Dijkstra + SPKLU,True,0.2678998000010324,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,1,GBFS Distance,True,0.7454949000020861,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,1,1,GBFS Battery-Aware,True,1.051614600000903,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,5,1,GBFS Battery-Aware,True,1.2857187000008707,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,10,1,GBFS Battery-Aware,True,0.7177221000019927,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,20,1,GBFS Battery-Aware,True,1.0513925999985076,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,2,Dijkstra (tanpa pengisian),False,0.6797568000001775,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,2,Dijkstra + SPKLU,True,0.6464384999999311,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,2,GBFS Distance,True,0.7033798000011302,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,1,2,GBFS Battery-Aware,True,1.2330598999978974,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,5,2,GBFS Battery-Aware,True,1.1382008000000496,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,10,2,GBFS Battery-Aware,True,0.8265591000017594,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,20,2,GBFS Battery-Aware,True,1.0020385999996506,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,3,Dijkstra (tanpa pengisian),False,0.6301319000012882,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,3,Dijkstra + SPKLU,True,0.6710512999998173,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,,3,GBFS Distance,True,0.8645174000012048,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,1,3,GBFS Battery-Aware,True,1.0697762999989209,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,5,3,GBFS Battery-Aware,True,0.8331164000010176,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,10,3,GBFS Battery-Aware,True,0.795587999997224,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.1218,10,20,3,GBFS Battery-Aware,True,0.9933612000022549,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,1,Dijkstra (tanpa pengisian),False,0.7082066000002669,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.15,10,,1,Dijkstra + SPKLU,True,0.5840007000006153,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,1,GBFS Distance,True,0.9364730000015697,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,1,1,GBFS Battery-Aware,True,0.9273106000000553,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,5,1,GBFS Battery-Aware,True,0.7725265999979456,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,10,1,GBFS Battery-Aware,True,1.0094705000010435,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,20,1,GBFS Battery-Aware,True,0.7802683000008983,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,2,Dijkstra (tanpa pengisian),False,0.6794150999994599,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.15,10,,2,Dijkstra + SPKLU,True,0.7822218000001158,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,2,GBFS Distance,True,0.9562896999996156,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,1,2,GBFS Battery-Aware,True,1.0622639999965031,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,5,2,GBFS Battery-Aware,True,0.8321819999982836,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,10,2,GBFS Battery-Aware,True,1.0319794000024558,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,20,2,GBFS Battery-Aware,True,1.1993112999989535,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,3,Dijkstra (tanpa pengisian),False,0.6621816999977455,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.15,10,,3,Dijkstra + SPKLU,True,0.607710300002509,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,,3,GBFS Distance,True,0.7469190999981947,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,1,3,GBFS Battery-Aware,True,1.0587802000009106,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,5,3,GBFS Battery-Aware,True,0.8449028999966686,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,10,3,GBFS Battery-Aware,True,0.9861257000011392,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.15,10,20,3,GBFS Battery-Aware,True,1.3609361999988323,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,1,Dijkstra (tanpa pengisian),False,0.5213032999999996,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.18,10,,1,Dijkstra + SPKLU,True,0.7038834999984829,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,1,GBFS Distance,True,0.8087195000007341,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,1,1,GBFS Battery-Aware,True,1.014092500001425,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,5,1,GBFS Battery-Aware,True,0.8818634000017482,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,10,1,GBFS Battery-Aware,True,0.7636679999995977,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,20,1,GBFS Battery-Aware,True,1.0104405999991286,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,2,Dijkstra (tanpa pengisian),False,0.5265251999990141,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.18,10,,2,Dijkstra + SPKLU,True,0.6770194999990053,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,2,GBFS Distance,True,0.8094619000003149,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,1,2,GBFS Battery-Aware,True,1.1669273000006797,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,5,2,GBFS Battery-Aware,True,1.1064030000015919,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,10,2,GBFS Battery-Aware,True,0.8232834000009461,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,20,2,GBFS Battery-Aware,True,1.0164680000016233,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,3,Dijkstra (tanpa pengisian),False,0.8948826000014378,False,False,not_applicable
+1,non_samosir,far,97.96296580940023,20,0.18,10,,3,Dijkstra + SPKLU,True,0.6484820000005129,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,,3,GBFS Distance,True,1.112703300001158,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,1,3,GBFS Battery-Aware,True,0.8338148000002548,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,5,3,GBFS Battery-Aware,True,1.078866800002288,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,10,3,GBFS Battery-Aware,True,0.7868130000024394,False,True,only_if_needed
+1,non_samosir,far,97.96296580940023,20,0.18,10,20,3,GBFS Battery-Aware,True,1.0420162999980676,False,True,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.3065643999980239,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,1,Dijkstra + SPKLU,True,0.31467219999831286,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,1,GBFS Distance,True,0.9175195999996504,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,1,1,GBFS Battery-Aware,True,0.9997184000021662,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,5,1,GBFS Battery-Aware,True,1.0319481999977143,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,10,1,GBFS Battery-Aware,True,0.7413248000011663,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,20,1,GBFS Battery-Aware,True,0.9952231000024767,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.30876079999870853,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,2,Dijkstra + SPKLU,True,0.3069467999994231,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,2,GBFS Distance,True,1.0350956000002043,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,1,2,GBFS Battery-Aware,True,0.7261159999980009,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,5,2,GBFS Battery-Aware,True,1.008806600002572,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,10,2,GBFS Battery-Aware,True,0.7423674000019673,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,20,2,GBFS Battery-Aware,True,1.0073542000027373,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.32692150000002584,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,3,Dijkstra + SPKLU,True,0.30819530000007944,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,,3,GBFS Distance,True,1.0572429000021657,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,1,3,GBFS Battery-Aware,True,0.7708898999990197,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,5,3,GBFS Battery-Aware,True,1.1432237000008172,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,10,3,GBFS Battery-Aware,True,1.217946500000835,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.1218,10,20,3,GBFS Battery-Aware,True,0.7431503999978304,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.3028591000002052,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.15,10,,1,Dijkstra + SPKLU,True,0.30963990000236663,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,1,GBFS Distance,True,0.9896994000009727,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,1,1,GBFS Battery-Aware,True,0.730674700000236,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,5,1,GBFS Battery-Aware,True,0.9594594000009238,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,10,1,GBFS Battery-Aware,True,0.9969103000003088,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,20,1,GBFS Battery-Aware,True,0.7428488999976253,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.37904530000014347,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.15,10,,2,Dijkstra + SPKLU,True,0.29825200000050245,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,2,GBFS Distance,True,1.082819000002928,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,1,2,GBFS Battery-Aware,True,1.0136472000012873,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,5,2,GBFS Battery-Aware,True,0.7582351999990351,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,10,2,GBFS Battery-Aware,True,1.033720600000379,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,20,2,GBFS Battery-Aware,True,0.8358030000017607,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.31641689999742084,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.15,10,,3,Dijkstra + SPKLU,True,0.31095880000066245,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,,3,GBFS Distance,True,1.1271518999965338,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,1,3,GBFS Battery-Aware,True,1.0338232000030985,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,5,3,GBFS Battery-Aware,True,0.7448958000022685,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,10,3,GBFS Battery-Aware,True,0.949542799997289,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.15,10,20,3,GBFS Battery-Aware,True,0.975927599996794,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.3085541000000376,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.18,10,,1,Dijkstra + SPKLU,True,0.3684127999986231,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,1,GBFS Distance,True,0.9701871999968716,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,1,1,GBFS Battery-Aware,True,0.9951703000006091,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,5,1,GBFS Battery-Aware,True,1.0611115000028803,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,10,1,GBFS Battery-Aware,True,0.7852529000010691,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,20,1,GBFS Battery-Aware,True,1.0275156000025163,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.31696329999977024,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.18,10,,2,Dijkstra + SPKLU,True,0.31721509999988484,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,2,GBFS Distance,True,0.724290000001929,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,1,2,GBFS Battery-Aware,True,0.988030800002889,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,5,2,GBFS Battery-Aware,True,1.0482154000019364,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,10,2,GBFS Battery-Aware,True,0.9325023999990663,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,20,2,GBFS Battery-Aware,True,1.008352000000741,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.3068063000027905,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,80,0.18,10,,3,Dijkstra + SPKLU,True,0.34657359999982873,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,,3,GBFS Distance,True,0.8114679999998771,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,1,3,GBFS Battery-Aware,True,0.9916593999987526,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,5,3,GBFS Battery-Aware,True,1.1919925000001967,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,10,3,GBFS Battery-Aware,True,0.7513995000008435,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,80,0.18,10,20,3,GBFS Battery-Aware,True,1.141121499997098,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.31419739999910234,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,1,Dijkstra + SPKLU,True,0.3119504999995115,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,1,GBFS Distance,True,1.025949100003345,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,1,1,GBFS Battery-Aware,True,0.7464442999989842,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,5,1,GBFS Battery-Aware,True,1.0959395999998378,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,10,1,GBFS Battery-Aware,True,1.037151399999857,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,20,1,GBFS Battery-Aware,True,0.7529390000017884,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.3062353000022995,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,2,Dijkstra + SPKLU,True,0.30857839999953285,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,2,GBFS Distance,True,1.0373911000024236,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,1,2,GBFS Battery-Aware,True,0.7420141999973566,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,5,2,GBFS Battery-Aware,True,1.0172729000005347,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,10,2,GBFS Battery-Aware,True,1.0542174000001978,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,20,2,GBFS Battery-Aware,True,0.7490467999996326,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.30813100000159466,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,3,Dijkstra + SPKLU,True,0.3061379000027955,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,,3,GBFS Distance,True,0.9916439000007813,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,1,3,GBFS Battery-Aware,True,0.7514921000001777,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,5,3,GBFS Battery-Aware,True,1.0869094999980007,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,10,3,GBFS Battery-Aware,True,1.0365445999996155,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.1218,10,20,3,GBFS Battery-Aware,True,0.7507415000000037,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.3019300999985717,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.15,10,,1,Dijkstra + SPKLU,True,0.3118184000013571,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,1,GBFS Distance,True,1.0031813999994483,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,1,1,GBFS Battery-Aware,True,0.7449605000001611,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,5,1,GBFS Battery-Aware,True,0.9970842000002449,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,10,1,GBFS Battery-Aware,True,1.0312873000002583,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,20,1,GBFS Battery-Aware,True,0.7317702000000281,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.30341450000196346,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.15,10,,2,Dijkstra + SPKLU,True,0.3018761000021186,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,2,GBFS Distance,True,0.9864082999993116,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,1,2,GBFS Battery-Aware,True,1.0524107000019285,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,5,2,GBFS Battery-Aware,True,0.8002429999978631,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,10,2,GBFS Battery-Aware,True,0.9931137999992643,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,20,2,GBFS Battery-Aware,True,1.0306708999996772,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.3048401999985799,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.15,10,,3,Dijkstra + SPKLU,True,0.3724785000013071,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,,3,GBFS Distance,True,0.7779751000016404,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,1,3,GBFS Battery-Aware,True,1.108385499999713,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,5,3,GBFS Battery-Aware,True,0.756678899997496,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,10,3,GBFS Battery-Aware,True,0.9862747000006493,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.15,10,20,3,GBFS Battery-Aware,True,1.0213569000006828,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.31097479999880306,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.18,10,,1,Dijkstra + SPKLU,True,0.3028133000007074,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,1,GBFS Distance,True,0.7293540999999095,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,1,1,GBFS Battery-Aware,True,1.0824749999992491,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,5,1,GBFS Battery-Aware,True,1.036803899998631,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,10,1,GBFS Battery-Aware,True,0.716288199997507,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,20,1,GBFS Battery-Aware,True,0.4425967000024684,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.10604940000121132,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.18,10,,2,Dijkstra + SPKLU,True,0.11872289999882923,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,2,GBFS Distance,True,1.2603299000002153,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,1,2,GBFS Battery-Aware,True,0.7165639999984705,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,5,2,GBFS Battery-Aware,True,1.130601699998806,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,10,2,GBFS Battery-Aware,True,0.8262095999998564,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,20,2,GBFS Battery-Aware,True,1.0530862000014167,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.3479785000017728,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,50,0.18,10,,3,Dijkstra + SPKLU,True,0.32103550000101677,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,,3,GBFS Distance,True,1.0502680000026885,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,1,3,GBFS Battery-Aware,True,0.783053099999961,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,5,3,GBFS Battery-Aware,True,0.9992573999988963,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,10,3,GBFS Battery-Aware,True,0.7613736000021163,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,50,0.18,10,20,3,GBFS Battery-Aware,True,0.9270741000000271,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.32198959999732324,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,1,Dijkstra + SPKLU,True,0.3104879999991681,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,1,GBFS Distance,True,1.1403651000000536,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,1,1,GBFS Battery-Aware,True,1.0980607999990752,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,5,1,GBFS Battery-Aware,True,0.8247818999989249,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,10,1,GBFS Battery-Aware,True,0.9995353000012983,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,20,1,GBFS Battery-Aware,True,1.0371443000003637,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.30545360000178334,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,2,Dijkstra + SPKLU,True,0.32904969999799505,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,2,GBFS Distance,True,0.7848190000004251,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,1,2,GBFS Battery-Aware,True,1.0378735000012966,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,5,2,GBFS Battery-Aware,True,1.0441070000015316,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,10,2,GBFS Battery-Aware,True,0.8163945000014792,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,20,2,GBFS Battery-Aware,True,1.0925714999975753,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.31842450000112876,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,3,Dijkstra + SPKLU,True,0.30771630000162986,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,,3,GBFS Distance,True,0.7274510000024748,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,1,3,GBFS Battery-Aware,True,1.0156205000021146,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,5,3,GBFS Battery-Aware,True,1.0758841999995639,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,10,3,GBFS Battery-Aware,True,0.7485381999977108,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.1218,10,20,3,GBFS Battery-Aware,True,1.0329820999977528,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.3095915999983845,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.15,10,,1,Dijkstra + SPKLU,True,0.3091889000024821,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,1,GBFS Distance,True,1.024600400000054,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,1,1,GBFS Battery-Aware,True,0.7479201999994984,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,5,1,GBFS Battery-Aware,True,1.1358924999985902,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,10,1,GBFS Battery-Aware,True,1.057819699999527,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,20,1,GBFS Battery-Aware,True,0.7515307000030589,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.3144615999990492,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.15,10,,2,Dijkstra + SPKLU,True,0.30459020000125747,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,2,GBFS Distance,True,1.0180301999971562,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,1,2,GBFS Battery-Aware,True,0.7680652999988524,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,5,2,GBFS Battery-Aware,True,1.0594482000014978,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,10,2,GBFS Battery-Aware,True,1.0494161999995413,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,20,2,GBFS Battery-Aware,True,0.767902999999933,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.3200923000003968,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.15,10,,3,Dijkstra + SPKLU,True,0.3112685000014608,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,,3,GBFS Distance,True,1.0139509000000544,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,1,3,GBFS Battery-Aware,True,0.7754550999998173,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,5,3,GBFS Battery-Aware,True,1.0316653000008955,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,10,3,GBFS Battery-Aware,True,1.0319140999999945,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.15,10,20,3,GBFS Battery-Aware,True,0.7589217000022472,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.322608799997397,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.18,10,,1,Dijkstra + SPKLU,True,0.32275909999953,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,1,GBFS Distance,True,1.0210315000003902,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,1,1,GBFS Battery-Aware,True,1.069493599999987,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,5,1,GBFS Battery-Aware,True,0.7386802000000898,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,10,1,GBFS Battery-Aware,True,1.0041997999978776,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,20,1,GBFS Battery-Aware,True,0.7372692999997525,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.30842719999782275,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.18,10,,2,Dijkstra + SPKLU,True,0.2986598999996204,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,2,GBFS Distance,True,0.9985414000002493,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,1,2,GBFS Battery-Aware,True,1.1707389000002877,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,5,2,GBFS Battery-Aware,True,0.7522967000004428,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,10,2,GBFS Battery-Aware,True,1.0136600000005274,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,20,2,GBFS Battery-Aware,True,1.0717375999993237,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.3146441000026243,False,False,not_applicable
+10,non_samosir,near,18.266091826460823,20,0.18,10,,3,Dijkstra + SPKLU,True,0.3076632000011159,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,,3,GBFS Distance,True,0.7547410000006494,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,1,3,GBFS Battery-Aware,True,1.0581356000002415,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,5,3,GBFS Battery-Aware,True,0.7545304000013857,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,10,3,GBFS Battery-Aware,True,1.0043455999984872,False,False,only_if_needed
+10,non_samosir,near,18.266091826460823,20,0.18,10,20,3,GBFS Battery-Aware,True,1.0674865000000864,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,1,Dijkstra (tanpa pengisian),True,0.34901739999986603,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,1,Dijkstra + SPKLU,True,0.34525639999992563,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,1,GBFS Distance,True,0.7903919999989739,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,1,1,GBFS Battery-Aware,True,1.0271718000003602,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,5,1,GBFS Battery-Aware,True,0.8102121000010811,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,10,1,GBFS Battery-Aware,True,1.004668000001402,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,20,1,GBFS Battery-Aware,True,1.1600131999985024,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,2,Dijkstra (tanpa pengisian),True,0.33757820000028005,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,2,Dijkstra + SPKLU,True,0.35611470000003465,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,2,GBFS Distance,True,0.7291769000003114,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,1,2,GBFS Battery-Aware,True,1.0117941999997129,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,5,2,GBFS Battery-Aware,True,1.046396099998674,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,10,2,GBFS Battery-Aware,True,0.7302468000016233,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,20,2,GBFS Battery-Aware,True,1.01605230000132,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,3,Dijkstra (tanpa pengisian),True,0.3398628000031749,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,3,Dijkstra + SPKLU,True,0.34587139999712235,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,,3,GBFS Distance,True,0.726134299999103,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,1,3,GBFS Battery-Aware,True,0.9988269000023138,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,5,3,GBFS Battery-Aware,True,1.0209748999986914,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,10,3,GBFS Battery-Aware,True,0.7387514999973064,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.1218,10,20,3,GBFS Battery-Aware,True,1.0007546000015282,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,1,Dijkstra (tanpa pengisian),True,0.3417131000023801,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,1,Dijkstra + SPKLU,True,0.3439600999990944,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,1,GBFS Distance,True,1.0352553999982774,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,1,1,GBFS Battery-Aware,True,0.7365946000027179,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,5,1,GBFS Battery-Aware,True,1.0583302000013646,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,10,1,GBFS Battery-Aware,True,0.7759282000006351,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,20,1,GBFS Battery-Aware,True,1.0418809000002511,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,2,Dijkstra (tanpa pengisian),True,0.32888590000220574,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,2,Dijkstra + SPKLU,True,0.3393934000014269,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,2,GBFS Distance,True,1.0381937000020116,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,1,2,GBFS Battery-Aware,True,0.7356920000020182,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,5,2,GBFS Battery-Aware,True,1.1992873000017426,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,10,2,GBFS Battery-Aware,True,0.7340736999976798,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,20,2,GBFS Battery-Aware,True,0.9712191999969946,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,3,Dijkstra (tanpa pengisian),True,0.33932260000074166,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,3,Dijkstra + SPKLU,True,0.3386955999994825,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,,3,GBFS Distance,True,1.0171031999998377,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,1,3,GBFS Battery-Aware,True,0.7354530999982671,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,5,3,GBFS Battery-Aware,True,1.004769999999553,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,10,3,GBFS Battery-Aware,True,1.0399584999977378,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.15,10,20,3,GBFS Battery-Aware,True,0.744005600001401,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,1,Dijkstra (tanpa pengisian),True,0.33917269999801647,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,1,Dijkstra + SPKLU,True,0.3387545000005048,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,1,GBFS Distance,True,1.0039259000004677,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,1,1,GBFS Battery-Aware,True,1.0495867999998154,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,5,1,GBFS Battery-Aware,True,0.7600015999996685,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,10,1,GBFS Battery-Aware,True,1.0162505999978748,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,20,1,GBFS Battery-Aware,True,0.7463839999982156,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,2,Dijkstra (tanpa pengisian),True,0.3370826999998826,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,2,Dijkstra + SPKLU,True,0.3378372999977728,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,2,GBFS Distance,True,0.9848891000001458,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,1,2,GBFS Battery-Aware,True,1.0240978000001633,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,5,2,GBFS Battery-Aware,True,0.7328870999990613,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,10,2,GBFS Battery-Aware,True,1.0127484000004188,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,20,2,GBFS Battery-Aware,True,1.0262437000019418,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,3,Dijkstra (tanpa pengisian),True,0.3398914000026707,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,3,Dijkstra + SPKLU,True,0.3411307000023953,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,,3,GBFS Distance,True,0.7187345000020287,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,1,3,GBFS Battery-Aware,True,1.0162463000015123,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,5,3,GBFS Battery-Aware,True,1.0581979000016872,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,10,3,GBFS Battery-Aware,True,0.736841199999617,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,80,0.18,10,20,3,GBFS Battery-Aware,True,1.0236738000021433,False,False,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,1,Dijkstra (tanpa pengisian),False,0.34073390000048676,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,1,Dijkstra + SPKLU,True,0.6690859999980603,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,1,GBFS Distance,True,1.0681484999986424,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,1,1,GBFS Battery-Aware,True,0.748985599995649,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,5,1,GBFS Battery-Aware,True,1.0274528000009013,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,10,1,GBFS Battery-Aware,True,0.7554863000004843,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,20,1,GBFS Battery-Aware,True,1.00819109999793,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,2,Dijkstra (tanpa pengisian),False,0.3383687000023201,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,2,Dijkstra + SPKLU,True,0.6732505999971181,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,2,GBFS Distance,True,1.093218900001375,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,1,2,GBFS Battery-Aware,True,0.7493107000009331,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,5,2,GBFS Battery-Aware,True,1.0215283000034105,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,10,2,GBFS Battery-Aware,True,1.0618732000002638,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,20,2,GBFS Battery-Aware,True,0.7546330999975908,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,3,Dijkstra (tanpa pengisian),False,0.3533389000003808,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,3,Dijkstra + SPKLU,True,0.6991048999989289,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,,3,GBFS Distance,True,1.0414726999988488,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,1,3,GBFS Battery-Aware,True,0.7436729999972158,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,5,3,GBFS Battery-Aware,True,0.9994954000030702,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,10,3,GBFS Battery-Aware,True,1.2059181999975408,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.1218,10,20,3,GBFS Battery-Aware,True,0.7561336000035226,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,1,Dijkstra (tanpa pengisian),False,0.33263979999901494,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,1,Dijkstra + SPKLU,True,0.6826396999967983,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,1,GBFS Distance,True,0.9916231999959564,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,1,1,GBFS Battery-Aware,True,1.030384599998797,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,5,1,GBFS Battery-Aware,True,0.7650380999984918,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,10,1,GBFS Battery-Aware,True,1.0091577000021061,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,20,1,GBFS Battery-Aware,True,1.0488877999996475,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,2,Dijkstra (tanpa pengisian),False,0.3331947000006039,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,2,Dijkstra + SPKLU,True,0.6712028000001737,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,2,GBFS Distance,True,0.7376829000022553,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,1,2,GBFS Battery-Aware,True,0.9990235000004759,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,5,2,GBFS Battery-Aware,True,0.7361105999952997,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,10,2,GBFS Battery-Aware,True,0.9757761000000755,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,20,2,GBFS Battery-Aware,True,1.0296778999982052,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,3,Dijkstra (tanpa pengisian),False,0.34870410000075935,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,3,Dijkstra + SPKLU,True,0.6845268999968539,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,,3,GBFS Distance,True,0.7391443000014988,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,1,3,GBFS Battery-Aware,True,1.003732499997568,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,5,3,GBFS Battery-Aware,True,1.0520321000003605,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,10,3,GBFS Battery-Aware,True,0.7233979000011459,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.15,10,20,3,GBFS Battery-Aware,True,1.0951433999980509,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,1,Dijkstra (tanpa pengisian),False,0.3360436999973899,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,1,Dijkstra + SPKLU,True,0.34955880000052275,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,1,GBFS Distance,True,1.0286187000019709,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,1,1,GBFS Battery-Aware,True,0.744858000001841,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,5,1,GBFS Battery-Aware,True,1.0330503000004683,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,10,1,GBFS Battery-Aware,True,0.8386451000005763,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,20,1,GBFS Battery-Aware,True,0.9869670000007318,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,2,Dijkstra (tanpa pengisian),False,0.3319240000018908,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,2,Dijkstra + SPKLU,True,0.438981799998146,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,2,GBFS Distance,True,1.0042763999990711,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,1,2,GBFS Battery-Aware,True,0.7490539999998873,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,5,2,GBFS Battery-Aware,True,0.993171699999948,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,10,2,GBFS Battery-Aware,True,1.0358235000021523,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,20,2,GBFS Battery-Aware,True,0.7402714000018022,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,3,Dijkstra (tanpa pengisian),False,0.34766970000055153,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,3,Dijkstra + SPKLU,True,0.3386493999969389,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,,3,GBFS Distance,True,1.01333109999905,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,1,3,GBFS Battery-Aware,True,0.7773453000008885,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,5,3,GBFS Battery-Aware,True,0.9963476000011724,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,10,3,GBFS Battery-Aware,True,1.044272400002228,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,50,0.18,10,20,3,GBFS Battery-Aware,True,0.8457501000011689,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,1,Dijkstra (tanpa pengisian),False,0.34705070000200067,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,1,Dijkstra + SPKLU,True,0.34463939999841386,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,1,GBFS Distance,True,1.0043205000001763,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,1,1,GBFS Battery-Aware,True,1.0164086000004318,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,5,1,GBFS Battery-Aware,True,0.739040100001148,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,10,1,GBFS Battery-Aware,True,0.9823012999986531,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,20,1,GBFS Battery-Aware,True,1.0605585999983305,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,2,Dijkstra (tanpa pengisian),False,0.35379200000170385,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,2,Dijkstra + SPKLU,True,0.35345759999836446,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,2,GBFS Distance,True,0.7626099999979488,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,1,2,GBFS Battery-Aware,True,1.020164699999441,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,5,2,GBFS Battery-Aware,True,0.7369609999987006,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,10,2,GBFS Battery-Aware,True,1.0233210999977018,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,20,2,GBFS Battery-Aware,True,1.0378904999997758,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,3,Dijkstra (tanpa pengisian),False,0.3398282999987714,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,3,Dijkstra + SPKLU,True,0.33859649999794783,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,,3,GBFS Distance,True,0.728015199998481,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,1,3,GBFS Battery-Aware,True,1.0312692000006791,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,5,3,GBFS Battery-Aware,True,0.7595876000013959,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,10,3,GBFS Battery-Aware,True,1.0167156999996223,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.1218,10,20,3,GBFS Battery-Aware,True,1.0358974000009766,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,1,Dijkstra (tanpa pengisian),False,0.3485867999988841,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,1,Dijkstra + SPKLU,True,0.42216670000198064,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,1,GBFS Distance,True,0.7271963999992295,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,1,1,GBFS Battery-Aware,True,1.0152333000005456,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,5,1,GBFS Battery-Aware,True,1.1712533999998413,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,10,1,GBFS Battery-Aware,True,0.8238557000004221,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,20,1,GBFS Battery-Aware,True,1.0334612000006018,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,2,Dijkstra (tanpa pengisian),False,0.3425478999997722,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,2,Dijkstra + SPKLU,True,0.3367207999981474,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,2,GBFS Distance,True,0.7375730999992811,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,1,2,GBFS Battery-Aware,True,0.9800921999994898,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,5,2,GBFS Battery-Aware,True,1.0225457999986247,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,10,2,GBFS Battery-Aware,True,0.7257781000007526,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,20,2,GBFS Battery-Aware,True,1.0276751999990665,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,3,Dijkstra (tanpa pengisian),False,0.3512937999985297,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,3,Dijkstra + SPKLU,True,0.3388006999994104,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,,3,GBFS Distance,True,1.0346255999975256,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,1,3,GBFS Battery-Aware,True,0.7559662999992725,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,5,3,GBFS Battery-Aware,True,1.0289147999974375,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,10,3,GBFS Battery-Aware,True,0.7359242000020458,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.15,10,20,3,GBFS Battery-Aware,True,0.9963017000009131,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,1,Dijkstra (tanpa pengisian),False,0.34286530000099447,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,1,Dijkstra + SPKLU,True,0.35153600000194274,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,1,GBFS Distance,True,1.0228525999991689,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,1,1,GBFS Battery-Aware,True,0.748022800002218,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,5,1,GBFS Battery-Aware,True,0.999395300001197,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,10,1,GBFS Battery-Aware,True,1.0271890000003623,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,20,1,GBFS Battery-Aware,True,0.7378166999988025,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,2,Dijkstra (tanpa pengisian),False,0.34063919999971404,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,2,Dijkstra + SPKLU,True,0.34228129999974044,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,2,GBFS Distance,True,1.1288299999978335,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,1,2,GBFS Battery-Aware,True,1.0414558000011311,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,5,2,GBFS Battery-Aware,True,0.7700843999991775,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,10,2,GBFS Battery-Aware,True,1.015280999999959,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,20,2,GBFS Battery-Aware,True,0.77392410000175,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,3,Dijkstra (tanpa pengisian),False,0.33795910000117146,False,False,not_applicable
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,3,Dijkstra + SPKLU,True,0.34402140000020154,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,,3,GBFS Distance,True,0.982132899996941,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,1,3,GBFS Battery-Aware,True,1.0157292000003508,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,5,3,GBFS Battery-Aware,True,0.7579172000005201,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,10,3,GBFS Battery-Aware,True,1.0065052999998443,False,True,only_if_needed
+19,samosir_origin,far,159.92038240538017,20,0.18,10,20,3,GBFS Battery-Aware,True,1.009023899998283,False,True,only_if_needed
